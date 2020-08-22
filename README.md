@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...pasindu.17@itfac.mrt.ac.lk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm Always looking for Fun on Everything What i do 
 -->
