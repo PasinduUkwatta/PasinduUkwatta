@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me:pasindu.17@itfac.mrt.ac.lk
 - ⚡ Fun fact: I'm Always looking for Fun on Everything What i do 
+- 😎 Read My Technical Articles :https://pasinduukwatta.medium.com/
