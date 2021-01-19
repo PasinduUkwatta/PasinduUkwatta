@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything
 - 📫 How to reach me:pasindu.17@itfac.mrt.ac.lk
-- 😎 Read My Technical Articles :https://pasinduukwatta.medium.com/
 - ⚡ Fun fact: I'm Always looking for Fun on Everything What i do 
 
