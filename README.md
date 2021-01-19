@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Recce Labs(PVT) Ltd as Software Engineer
+- 🔭 I’m Worked at Recce Labs(PVT) Ltd as Software Engineer Intern 
 - 🌱 I’m currently learning Python ,Java,React Js,JavaScript,Machine Learning
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything
