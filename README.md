@@ -3,9 +3,8 @@
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m Worked at Recce Labs(PVT) Ltd as Software Engineer Intern 
 - 🌱 I’m currently learning Python ,Java,React Js,JavaScript,Machine Learning
+- 🔭 I’m Worked at Recce Labs(PVT) Ltd as Software Engineer Intern 
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything
 - 📫 How to reach me:pasindu.17@itfac.mrt.ac.lk
