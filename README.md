@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning Python ,Java,React Js,JavaScript,Machine Learning
+- 🌱 I’m currently learning Python ,Java,React Js,JavaScript,Kotlin,Machine Learning
 - 🔭 I Worked at Recce Labs (PVT) Ltd as Software Engineer Intern 
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything
