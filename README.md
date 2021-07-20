@@ -11,5 +11,5 @@ Here are some ideas to get you started:-
 - 📫 How to reach me:pasindu.17@itfac.mrt.ac.lk
 - ⚡ Fun fact: I'm Always looking for Fun on Everything What i do 
 
-[twitter]: https://twitter.com/pasindu-ukwatta
+[twitter]: https://twitter.com/pasindu_ukwatta
 [linkedin]: https://www.linkedin.com/in/pasindu-ukwatta/
