@@ -27,3 +27,13 @@ Here are some ideas to get you started:-
 
 [twitter]: https://twitter.com/pasindu_ukwatta
 [linkedin]: https://www.linkedin.com/in/pasindu-ukwatta/
+
+<!-- //////// Contact Details /////////////-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pasindu_ukwatta" target="blank"><img align="center" src="img/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pasindu-ukwatta/" target="blank"><img align="center" src="img/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pasinduukwatta96/" target="blank"><img align="center" src="img/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pasindu_ukwatta_/?hl=en" target="blank"><img align="center" src="img/instagram.svg"  height="30" width="40" /></a>
+<a href="https://pasindu-ukwatta.medium.com/" target="blank"><img align="center" src="img/medium.svg" height="30" width="40" /></a>
+</p>
