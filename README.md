@@ -54,9 +54,9 @@ Here are some ideas to get you started:-
 <!-- Node JS -->
 <a href="https://nodejs.org" target="_blank"> <img src="img/nodejs-seeklogo.com.svg" alt="nodejs" width="40" height="40"/> </a> 
 <!-- Angular JS -->
-<a href="https://angular.io" target="_blank"> <img src="img/angularjs.svg" alt="angular" width="40" height="40"/> </a> 
+<!-- <a href="https://angular.io" target="_blank"> <img src="img/angularjs.svg" alt="angular" width="40" height="40"/> </a>  -->
 <!-- Express JS -->
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  -->
 <!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <!-- Java  -->
@@ -80,9 +80,9 @@ Here are some ideas to get you started:-
 <!-- React Native -->
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <!-- Sass -->
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 <!-- JSON -->
-<a href="https://www.json.org/" target="_blank"> <img src="img/json.svg" alt="JSON" width="40" height="40"/> </a>
+<!-- <a href="https://www.json.org/" target="_blank"> <img src="img/json.svg" alt="JSON" width="40" height="40"/> </a> -->
 </p>
 
 
