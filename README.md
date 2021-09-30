@@ -60,7 +60,7 @@ Here are some ideas to get you started:-
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="img/css-3.svg" alt="css3" width="40" height="40"/> </a> 
  
-
+</p>
 
 
 
