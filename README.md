@@ -1,3 +1,17 @@
+## Hello there <img src="img/Hi.gif" width="30px">
+</h2>
+
+
+
+<!-- ////////////////// START README FILE /////////////////// -->
+
+<h1 align="center">I'm Pasindu Ukwatta</h1>
+<h3 align="center">Undergraduate of Information Technology, University of Moratuwa.</h3>
+
+<hr/>
+
+
+
 ### Here is What I'm Working On! 👋
 
 
