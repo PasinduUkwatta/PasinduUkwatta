@@ -1,4 +1,4 @@
-## Hello there <img src="img/Hi.gif" width="30px">
+## Hello there😎 
 </h2>
 
 
