@@ -87,7 +87,7 @@ Here are some ideas to get you started:-
 
 
 <!-- ///////////// Support //////////////// -->
-<h3 align="left">Support:</h3>
+<h3 align="left">Github Stats:</h3>
 
 
 
