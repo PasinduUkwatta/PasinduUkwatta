@@ -58,7 +58,7 @@ Here are some ideas to get you started:-
 <!-- Express JS -->
 <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  -->
 <!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  -->
  <!-- Java  -->
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <!-- PHP -->
@@ -66,7 +66,7 @@ Here are some ideas to get you started:-
 <!-- Python -->
 <a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt="python" width="40" height="40"/> </a> 
 <!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  -->
 <!-- Mongo DB -->
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <!-- MySQL -->
@@ -74,11 +74,11 @@ Here are some ideas to get you started:-
 <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!-- Heroku -->
-<a href="https://heroku.com" target="_blank"> <img src="img/heroku.svg" alt="heroku" width="40" height="40"/> </a>
+<!-- <a href="https://heroku.com" target="_blank"> <img src="img/heroku.svg" alt="heroku" width="40" height="40"/> </a> -->
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank"> <img src="img/linux.svg" alt="linux" width="40" height="40"/> </a>  
 <!-- React Native -->
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  -->
 <!-- Sass -->
 <!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
 <!-- JSON -->
