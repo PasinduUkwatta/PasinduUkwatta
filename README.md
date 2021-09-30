@@ -50,12 +50,7 @@ Here are some ideas to get you started:-
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <!-- React JS -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- Node JS -->
-<a href="https://nodejs.org" target="_blank"> <img src="img/nodejs-seeklogo.com.svg" alt="nodejs" width="40" height="40"/> </a> 
-<!-- Angular JS -->
-<a href="https://angular.io" target="_blank"> <img src="img/angularjs.svg" alt="angular" width="40" height="40"/> </a> 
-<!-- Express JS -->
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+
 <!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <!-- Java  -->
