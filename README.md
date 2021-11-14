@@ -9,7 +9,7 @@
 
 <hr/>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PasinduUkwatta&label=Profile%20views&color=0e75b6&style=flat" alt="mahdhir" /> </p>
 
 ### Here is What I'm Working On! 👋
 
