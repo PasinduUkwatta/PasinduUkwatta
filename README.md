@@ -5,7 +5,7 @@
 <!-- ////////////////// START README FILE /////////////////// -->
 
 <h1 align="center">I'm Pasindu Ukwatta</h1>
-<h3 align="center">Reading MSc in Computer Science at the University of Moratuwa.</h3>
+<h3 align="center">MSc in Computer Science at the University of Moratuwa.</h3>
 <h4 align="center">Graduated from the Faculty of Information Technology at the University of Moratuwa.</h4>
 
 
