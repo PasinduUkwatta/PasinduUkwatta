@@ -20,7 +20,7 @@
 Here are some ideas to get you started:-
 - 🌱 I’m currently learning Python 🐍 ,Java ☕,React Js 🎇,JavaScript 🧃,Kotlin 🎃,Machine Learning 🤖,Deep Learning 👾, Reinforcement learning 🛠️
 - 😊 I'm Self Learner 👨‍💻
-- 🔭 I Working as a Software Engineer 
+- 🔭 I Working as a Senior Software Engineer 
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything , I always like to help others 
 - 📫 How to reach me:pasindu.17@itfac.mrt.ac.lk
